@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Present</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_section1">Edit Profile</string>
+    <string name="title_section2">Video Settings</string>
+    <string name="title_section3">Find Friends</string>
+    <string name="title_section4">About Present</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_core">Present Beta</string>
+
+</resources>
